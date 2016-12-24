@@ -1,2 +1,2 @@
-# ccnu_crs
-课堂应答分析系统
+# ssm_hnust
+SSM系统案例
